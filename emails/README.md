@@ -1,4 +1,6 @@
 # Emails
 
-- [Partner Invite](./partner.md)
-- [Speaker Engagement](./speaker.md)
+> We use the following content as templates to reach out and engage speakers and sponsors.
+
+- [Sponsor Invite](./sponsor.md)
+- [Speaker Invite](./sponsor.md)
