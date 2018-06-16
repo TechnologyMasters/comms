@@ -40,16 +40,16 @@ Using a single-track conference format means we do not have lots of speaker slot
 
 #### Sponsorship Packages
 
-Bronze ($5000)        | Silver ($10,000)      | Gold ($20,000)           
---------------------- | --------------------- | -------------------------
-unlimited             | Limit 5 - 8           | Limit 5                  
-Logo Placement        | Logo Placement        | Logo Placement           
-Event Announcement    | Event Announcement    | Event Announcement       
-2 VIP tickets         | 4 VIP tickets         | 6 VIP tickets            
-Hiring Pitch          | Hiring Pitch          | Hiring Pitch             
--                     | Special Tweet mention | Special Tweet mention    
--                     | Booth                 | Booth                    
--                     | -                     | Workshop _(20-30 people)_
+Bronze ($5000)     | Silver ($10,000)      | Gold ($20,000)           
+------------------ | --------------------- | -------------------------
+unlimited          | Limit 5 - 8           | Limit 5                  
+Logo Placement     | Logo Placement        | Logo Placement           
+Event Announcement | Event Announcement    | Event Announcement       
+2 VIP tickets      | 4 VIP tickets         | 6 VIP tickets            
+Hiring Pitch       | Hiring Pitch          | Hiring Pitch             
+`-`                | Special Tweet mention | Special Tweet mention    
+`-`                | Booth                 | Booth                    
+`-`                | `-`                   | Workshop _(20-30 people)_
 
 #### Logo Placement
 
