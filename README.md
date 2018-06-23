@@ -4,4 +4,4 @@
 - [Social Templates](./social/)
 - [Emails](./emails/)
 
-[website]: https://functions.world
+[website]: https://functions.events

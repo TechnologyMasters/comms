@@ -67,9 +67,9 @@ Hiring Pitch       | Hiring Pitch          | Hiring Pitch
 - Have your own booth slot in the open space.
 - Bring your own banners. We'll allow you to bring two of your own banners and put them in spotlight positions.
 
-[2017]: https://2017.functions.world
+[2017]: https://functions.events/2017/toronto
 
-[2018]: https://2018.functions.world
+[2018]: https://functions.events/2018/toronto
 
 [recap]: https://techmasters.blog/functions17-conference-recap-97f7ef932791
 
