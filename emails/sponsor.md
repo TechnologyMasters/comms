@@ -10,7 +10,7 @@
 
 - Date: Friday 28 September 2018
 - Venue: [TELUS Harbour Conference Space](https://goo.gl/maps/gRj2rvySSTT2)
-- Expected attendance: 450 people
+- Expected attendance: 450
 
 ## Format
 
