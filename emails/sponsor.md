@@ -2,7 +2,7 @@
 
 ## What is Functions 2018?
 
-[Functions 2018][2018] is a **community focused, single track, one day** that moves away from the hype and focuses on the reality of serverless based solutions. It's about fostering a community locally and helping all of us learn from each other as we embrace a new way of building applications.
+[Functions 2018][2018] is a **community focused, single track, one day conference** that moves away from the hype and focuses on the reality of serverless based solutions. It's about fostering a community locally and helping all of us learn from each other as we embrace a new way of building applications.
 
 [Functions 2017][2017] was our inaugural event and we are building on the success of it again this year. We are going to be hosted in a dedicated event space that can accommodate up to 450 attendees in a conveniente and well-known accessible location in downtown Toronto.
 

@@ -4,7 +4,7 @@
 
 FaaS _(Function as a Service)_ architecture is radically changing how software is built and how teams interface with each other and systems at scale. The old paradigms of Web Services and Monolithic APIs are being replaced with remote functions, event-driven architectures, and new standards like Microservices, Serverless and GraphQL. We're organizing a space for Creativity, Exploration, Discussion and Learning to help developers learn and get in touch with the industry leaders on these topics.
 
-[Functions 2018][2018] is a **community focused, single track, one day conference** event that moves away from the hype and focuses on the reality serverless based solutions. It's about fostering a community locally and helping all of us learn from each other as we embrace a new way of building applications.
+[Functions 2018][2018] is a **community focused, single track, one day conference** event that moves away from the hype and focuses on the reality of serverless based solutions. It's about fostering a community locally and helping all of us learn from each other as we embrace a new way of building applications.
 
 [Functions 2017][2017] was our inaugural event and we are building on the success of it again this year. We are going to be hosted in a dedicated event space that can accommodate up to 450 attendees in a conveniente and well-known accessible location in downtown Toronto.
 
