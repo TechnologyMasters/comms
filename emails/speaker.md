@@ -32,6 +32,8 @@ ServerlessDays are a family of events around the world focused on fostering a co
 
 ## Apply to speak
 
+You can apply on [papercall.io][papercall], or through [GitHub][github]
+
 ### High Quality Practical Content
 
 Our planning process starts with great quality content, we carefully select topics that our attendees can go right back to work and start adopting. Those topics are laid out [below](#topics) and messaged to our attendees on our website well before announcing speakers, we then find amazing speakers to talk in those spots. This is a lot different than the traditional CFP process.
@@ -61,3 +63,6 @@ Don't see a topic you can speak to below? Don't worry submit any way! We read ev
 ### Diversity & Inclusion
 
 We want an event that everyone can be proud of. Part of our mission is to support speakers coming from typically underrepresented demographics, so we encourage you to submit and share with your network so we have a large and diverse submission pool to select from. We want to ensure we have an inclusive event, for this reason, **you will be required to legally bind yourself to our code of conduct in our contract process**, and we will investigate you as a speaker to ensure we see the quality and exemplary behaviour.
+
+[papercall]: https://www.papercall.io/serverless-to-2018
+[github]: https://github.com/functions-conf/contributing/issues/new?template=speak.md
