@@ -24,7 +24,7 @@ The conference mixes elements of an unconference and a more traditional conferen
 
 ## Become a Partner
 
-We want to involve the local community and reach out to ask for your kind help in spreading the word about the event. In return, we'd love to provide a:
+We want to involve the local community and reach out to ask for your kind help in spreading the word about the event. In return, we'd love to provide:
 
 - **Free ticket** for you to the event
 - Special **discount code** for your community
